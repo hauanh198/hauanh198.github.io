@@ -1,0 +1,27 @@
+header {
+	background: #00ffff
+}
+#baner img{
+	width: 100%
+}
+main{
+	padding: 10px 0;
+	width: 100%
+}
+.footer{
+	background: black;
+	color: white;
+}
+.footer .ft-form form{
+	margin-top: 15px;
+}
+.footer .ft-form input .form-control{
+	width: 300px
+
+}
+.itemm-img{
+	padding: 13px 0;
+}
+.itemm-img img{
+	width: 100%
+}
